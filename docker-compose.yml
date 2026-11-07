@@ -1,0 +1,43 @@
+# Standalone infrastructure for AI Job Hunter.
+# Starts PostgreSQL and Redis that the job hunter expects at localhost:5432 / localhost:6379.
+#
+# Usage:
+#   docker compose up -d     # start Postgres + Redis
+#   docker compose down      # stop them (data volumes persist)
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: job-hunter-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: jobhunter
+      POSTGRES_PASSWORD: jobhunter
+      POSTGRES_DB: job_hunter
+    ports:
+      - "5432:5432"
+    volumes:
+      - jobhunter-postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U jobhunter -d job_hunter"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  redis:
+    image: redis:7-alpine
+    container_name: job-hunter-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - jobhunter-redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+volumes:
+  jobhunter-postgres-data:
+  jobhunter-redis-data:

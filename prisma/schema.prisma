@@ -1,0 +1,205 @@
+// AI Job Hunter — Prisma schema
+// Standalone job discovery system (not org-scoped).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum JobExperienceLevel {
+  INTERNSHIP
+  SUMMER_INTERNSHIP
+  GRADUATE_PROGRAM
+  FRESH_GRADUATE
+  JUNIOR
+  ENTRY_LEVEL
+  MID_LEVEL
+  SENIOR
+  UNCLEAR
+}
+
+enum JobType {
+  INTERNSHIP
+  FULL_TIME
+  PART_TIME
+  CONTRACT
+  APPRENTICESHIP
+}
+
+enum JobRemote {
+  REMOTE
+  HYBRID
+  ONSITE
+  UNKNOWN
+}
+
+enum VerificationStatus {
+  UNVERIFIED
+  VERIFIED
+  FAILED
+}
+
+enum NotificationChannel {
+  TELEGRAM
+  WHATSAPP
+}
+
+enum NotificationStatus {
+  PENDING
+  SENT
+  FAILED
+}
+
+enum AgentStatus {
+  PENDING
+  RUNNING
+  COMPLETED
+  FAILED
+  TIMEOUT
+}
+
+model UserProfile {
+  id                String   @id @default(cuid())
+  name              String
+  email             String?
+  location          String
+  education         String
+  graduationYear    Int
+  skills            String[]
+  preferredJobTypes String[]
+  preferredLocations String[]
+  remotePreference  String   @default("remote_first")
+  minMatchScore     Int      @default(70)
+  notifyTelegram    Boolean  @default(true)
+  notifyWhatsApp    Boolean  @default(false)
+  telegramChatId    String?
+  whatsappPhone     String?
+  cvUrl             String?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  jobMatches JobMatch[]
+
+  @@index([graduationYear])
+}
+
+model JobSource {
+  id                String      @id @default(cuid())
+  name              String
+  sourceType        String      // JOBSPY | CAREER_PAGE | RSS | API | MANUAL
+  enabled           Boolean     @default(true)
+  configuration     Json?       // source-specific config
+  lastSuccessfulRun DateTime?
+  lastError         String?
+  createdAt         DateTime    @default(now())
+  updatedAt         DateTime    @updatedAt
+
+  @@index([enabled])
+  @@index([sourceType])
+  @@unique([name])
+
+  jobs Job[]
+}
+
+model SearchQuery {
+  id          String   @id @default(cuid())
+  keyword     String
+  category    String   // BACKEND | FRONTEND | FULL_STACK | GENERAL | AI_ML
+  enabled     Boolean  @default(true)
+  priority    Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([enabled])
+  @@index([category])
+}
+
+model Job {
+  id                String              @id @default(cuid())
+  sourceId          String
+  externalId        String
+  title             String
+  company           String
+  location          String
+  description       String              @db.Text
+  jobType           JobType
+  experienceLevel   JobExperienceLevel
+  postingDate       DateTime?
+  deadline          DateTime?
+  originalUrl       String
+  applicationUrl    String?
+  salary            String?
+  remote            JobRemote           @default(UNKNOWN)
+  verificationStatus VerificationStatus @default(UNVERIFIED)
+  contentHash       String?
+  sourceReferences  Json?
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+
+  source      JobSource    @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  matches     JobMatch[]
+  notifications JobNotification[]
+
+  @@unique([sourceId, externalId])
+  @@index([experienceLevel])
+  @@index([verificationStatus])
+  @@index([contentHash])
+  @@index([postingDate])
+  @@index([deadline])
+  @@index([sourceId])
+}
+
+model JobMatch {
+  id            String   @id @default(cuid())
+  jobId         String
+  profileId     String
+  matchScore    Int      // 0-100
+  eligibility   String   // ELIGIBLE | LIKELY_ELIGIBLE | UNCERTAIN | NOT_ELIGIBLE
+  matchedSkills String[]
+  missingSkills String[]
+  explanation   String   @db.Text
+  priority      String   // HIGH_PRIORITY | MEDIUM_PRIORITY | LOW_PRIORITY
+  createdAt     DateTime @default(now())
+
+  job     Job         @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  profile UserProfile @relation(fields: [profileId], references: [id], onDelete: Cascade)
+
+  @@unique([jobId, profileId])
+  @@index([matchScore])
+  @@index([eligibility])
+  @@index([priority])
+}
+
+model JobNotification {
+  id             String   @id @default(cuid())
+  jobId          String
+  channel        NotificationChannel
+  sentAt         DateTime @default(now())
+  deliveryStatus NotificationStatus @default(PENDING)
+  error          String?
+
+  job   Job @relation(fields: [jobId], references: [id], onDelete: Cascade)
+
+  @@index([jobId])
+  @@index([channel])
+  @@index([sentAt])
+}
+
+model AgentExecution {
+  id               String   @id @default(cuid())
+  agentName        String
+  status           AgentStatus
+  startedAt        DateTime @default(now())
+  completedAt      DateTime?
+  error            String?
+  tokenUsage       Int      @default(0)
+  executionMetadata Json?
+  createdAt        DateTime @default(now())
+
+  @@index([agentName, status])
+  @@index([createdAt])
+}

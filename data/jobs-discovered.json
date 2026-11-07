@@ -1,0 +1,978 @@
+[
+  {
+    "jobId": "li-auto-pa03zn",
+    "externalId": "li-auto-pa03zn",
+    "title": "Progree Remote Internships",
+    "company": "Hisham Mostafa Murad",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experienceLevel": "INTERNSHIP",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "3ac991436933796fbe3118432b041042fead83fd",
+    "description": "Progree Remote Internships\n🔗 Register now: https://lnkd.in/dzxR7gyY\nProgree’s Remote Internship Program is designed to help you learn new skills, gain practical experience, connect with mentors, and move closer to your career goals.\nDon’t wait for the perfect moment.\nStart with the opportunity in front of you.\n💙 Learn. Build. Grow.\n🚀 Your future starts with your next step.\n#InternshipOpportunity #CareerOpportunity #CareerGrowth #PersonalDevelopment #ProfessionalDevelopment #FutureCareer #SkillBuilding #StudentOpportunities #CareerJourney #Progree",
+    "matchScore": 20,
+    "eligibility": "LIKELY_ELIGIBLE",
+    "matchedSkills": [],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "INTERNSHIP",
+        "reasoning": "Internship keyword: \"intern\""
+      },
+      "eligibility": {
+        "eligibility": "LIKELY_ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Students accepted",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": true
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-pa03zn",
+        "matchScore": 20,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T13:13:18.742Z"
+  },
+  {
+    "jobId": "li-auto-f1b6zw",
+    "externalId": "li-auto-f1b6zw",
+    "title": "Progree Remote Internships",
+    "company": "Hisham Mostafa Murad",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experienceLevel": "INTERNSHIP",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "6d9483e64001868f47752efa9d0b7b785d3ac3ea",
+    "description": "Progree Remote Internships\n🔗 Register now: https://lnkd.in/dzxR7gyY\nProgree’s Remote Internship Program is designed to help you learn new skills, gain practical experience, connect with mentors, and move closer to your career goals.\nDon’t wait for the perfect moment.\nStart with the opportunity in front of you.\n💙 Learn. Build. Grow.\n🚀 Your future starts with your next step.\n#InternshipOpportunity #CareerOpportunity #CareerGrowth #PersonalDevelopment #ProfessionalDevelopment #FutureCareer #SkillBuilding #StudentOpportunities #CareerJourney #Progree\n… more",
+    "matchScore": 20,
+    "eligibility": "LIKELY_ELIGIBLE",
+    "matchedSkills": [],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "INTERNSHIP",
+        "reasoning": "Internship keyword: \"intern\""
+      },
+      "eligibility": {
+        "eligibility": "LIKELY_ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Students accepted",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": true
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-f1b6zw",
+        "matchScore": 20,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T13:13:18.758Z"
+  },
+  {
+    "jobId": "li-auto-n727yn",
+    "externalId": "li-auto-n727yn",
+    "title": "Java-Spring Boot Developer",
+    "company": "Ali Amr",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experienceLevel": "JUNIOR",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "cfabd5d94fd2be7d4457613aa72f57e9e0cfecee",
+    "description": "Java-Spring Boot Developer\n\n⚡ Caught in a LinkedIn hiring post — before it hits the job boards.\n\n📍 Remote - US\n💰 USD 66300-89700/year\n\nClient needs a Junior Java-Spring Boot Developer to build web applications. Must have experience with Java, Spring Boot, AWS services like EC2 and S3, and frontend skills in React and JavaScript.\n\n🎙 New: prepare for the client call. Practice the questions they will ask, out loud, free 👉 https://lnkd.in/gX6dC-JK\n\n✍️ Your application is already drafted — review & send in one click.\n🔗 Apply free (first one's on us): https://lnkd.in/gCXrdAJQ\n\nHundreds of fresh remote tech roles land on Freelanly every day — caught from LinkedIn hiring posts before the boards. Be first: freelanly.com\n\nTelegram: https://t.me/PCFTI\n🇪🇸 Síguenos en español: https://lnkd.in/dthNCFqz\n🇸🇦 تابعنا بالعربية: https://lnkd.in/dvfsy_Rd\n🇮🇳 हिंदी में फॉलो करें: https://lnkd.in/dxavg7Wj\n… more",
+    "matchScore": 29,
+    "eligibility": "ELIGIBLE",
+    "matchedSkills": [
+      "JavaScript",
+      "React"
+    ],
+    "missingSkills": [
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "JUNIOR",
+        "reasoning": "Graduate/entry keyword: \"junior\""
+      },
+      "eligibility": {
+        "eligibility": "ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": false
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-n727yn",
+        "matchScore": 29,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [
+          "JavaScript",
+          "React"
+        ],
+        "missingSkills": [
+          "TypeScript",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T13:14:31.641Z"
+  },
+  {
+    "jobId": "li-auto-j0e7iw",
+    "externalId": "li-auto-j0e7iw",
+    "title": "Java-Spring Boot Developer",
+    "company": "Ali Amr",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experienceLevel": "JUNIOR",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "0887cdacfe2ab7732abcbc90c85391646e38eeb9",
+    "description": "Java-Spring Boot Developer\n\n⚡ Caught in a LinkedIn hiring post — before it hits the job boards.\n\n📍 Remote - US\n💰 USD 66300-89700/year\n\nClient needs a Junior Java-Spring Boot Developer to build web applications. Must have experience with Java, Spring Boot, AWS services like EC2 and S3, and frontend skills in React and JavaScript.\n\n🎙 New: prepare for the client call. Practice the questions they will ask, out loud, free 👉 https://lnkd.in/gX6dC-JK\n\n✍️ Your application is already drafted — review & send in one click.\n🔗 Apply free (first one's on us): https://lnkd.in/gCXrdAJQ\n\nHundreds of fresh remote tech roles land on Freelanly every day — caught from LinkedIn hiring posts before the boards. Be first: freelanly.com\n\nTelegram: https://t.me/PCFTI\n🇪🇸 Síguenos en español: https://lnkd.in/dthNCFqz\n🇸🇦 تابعنا بالعربية: https://lnkd.in/dvfsy_Rd\n🇮🇳 हिंदी में फॉलो करें: https://lnkd.in/dxavg7Wj",
+    "matchScore": 29,
+    "eligibility": "ELIGIBLE",
+    "matchedSkills": [
+      "JavaScript",
+      "React"
+    ],
+    "missingSkills": [
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "JUNIOR",
+        "reasoning": "Graduate/entry keyword: \"junior\""
+      },
+      "eligibility": {
+        "eligibility": "ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": false
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-j0e7iw",
+        "matchScore": 29,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [
+          "JavaScript",
+          "React"
+        ],
+        "missingSkills": [
+          "TypeScript",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T13:14:38.018Z"
+  },
+  {
+    "jobId": "li-auto-m0jnm",
+    "externalId": "li-auto-m0jnm",
+    "title": "🚀 FRESH / GRADUATES | SECfix IS HIRING | 🔥 $20K–$32K USD/YEAR + EQUITY (Earn in USD, from India) | 100% REMOTE FROM INDIA!",
+    "company": "Mallepalli Siva Prasad",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experienceLevel": "INTERNSHIP",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "4e84088eed42fc82de81028ded75db2b87883f19",
+    "description": "🚀 FRESH / GRADUATES | SECfix IS HIRING | 🔥 $20K–$32K USD/YEAR + EQUITY (Earn in USD, from India) | 100% REMOTE FROM INDIA!\n\nWant to build real-world backend systems, AI agents and automation workflows while working with an international startup?\n\nThis is an opportunity worth checking out!\n\n🏢 Company: Secfix\n💼 Role: Backend Engineer – GTM Engineering\n📍 Location: Remote – India\n🌍 Work Mode: 100% Remote\n🎓 Experience: 0–2 Years\n💰 Compensation: $20,000–$32,000/year + Equity (depending on location)\n\n🛠️ WHAT THEY’RE LOOKING FOR\n\n* Strong Python or another backend programming language\n* SQL and Data Modelling\n* REST APIs and Webhooks\n* Git, Deployment, Testing and Debugging\n* Backend Development and Data Pipelines\n* Hands-on experience with AI coding tools and LLM APIs (Claude Code / Claude API)\n* Strong problem-solving and system-thinking skills\n\n🎯 WHAT YOU’LL BUILD\n\n* Backend services and data pipelines\n* API integrations and automation workflows\n* AI-powered agents and internal tools\n* Lead scoring and intelligent routing systems\n* Reliable production systems\n\n⭐ WHY THIS OPPORTUNITY STANDS OUT\n\n* Work remotely from India\n* Collaborate with an international engineering team\n* Build AI-powered business applications\n* Competitive USD compensation and equity\n* High ownership and hands-on product engineering experience\n\n⚠️ IMPORTANT ELIGIBILITY DETAILS\n\n* Recent CS or related engineering graduate (0–2 years).\n* At least 1 year of backend experience through a full-time role or startup internship.\n* Practical projects or shipped applications are important.\n* Strong written and spoken English required.\n* Minimum 4 hours overlap with Central European Time (CET).\n\n💬 INTERESTED? COMMENT “SECFIX” BELOW!\n\n📌 Check my PINNED COMMENT or DM me for Official application link\n\nDon’t miss this opportunity to work remotely with a global startup!\n\n🔔 Follow Mallepalli Siva Prasad for more remote jobs, fresher opportunities and international career openings.\n\n#RemoteJobs #FreshersHiring #BackendEngineer #PythonDeveloper #AIEngineering #LLM #RemoteIndia #StartupJobs #TechVerseIndia #Freshers #Graduates #AI #GenAI #AgenticAI",
+    "matchScore": 49,
+    "eligibility": "ELIGIBLE",
+    "matchedSkills": [
+      "REST APIs",
+      "Git"
+    ],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "INTERNSHIP",
+        "reasoning": "Internship keyword: \"intern\""
+      },
+      "eligibility": {
+        "eligibility": "ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Internship/graduate role — typically student-eligible",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": false
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-m0jnm",
+        "matchScore": 49,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T14:45:04.383Z"
+  },
+  {
+    "jobId": "li-auto-56ulfh",
+    "externalId": "li-auto-56ulfh",
+    "title": "🚀 WE’RE HIRING: FRONTEND / UI ENGINEER",
+    "company": "Tamer Omar, MBA, PMP",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experienceLevel": "UNCLEAR",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "eced89813bf79c5c4fe666988f3dae4f642275a4",
+    "description": "🚀 WE’RE HIRING: FRONTEND / UI ENGINEER\nBuild challenging coding tasks that connect visual design with real-world frontend engineering.\nWe’re looking for experienced frontend developers to create technically accurate, verifiable coding challenges using visual references and working implementations.\n📍 Role Details\n• 🌍 Global | Fully Remote\n• Contract: Project-based contractor\n• Compensation: $80–$100/hour equivalent\n• Payment: Approximately $640–$800 per approved task\n• Estimated task duration: 8 hours\n• Openings: 50\n🎯 The Opportunity\nContribute your frontend expertise to building complex coding tasks with objective evaluation criteria and reliable technical solutions.\n💼 What You’ll Do\n• Transform screenshots, diagrams, and videos into coding challenges.\n• Design multi-step tasks based on real UI workflows.\n• Define technical requirements and expected application behavior.\n• Establish measurable, objective success criteria.\n• Develop working reference implementations.\n• Review contributions for accuracy and technical quality.\n• Identify ambiguous or unverifiable tasks.\n🎓 What You’ll Bring\n• Strong React, TypeScript, or comparable frontend experience.\n• Public GitHub profile with substantial, verifiable contributions.\n• Proven ability to develop and debug complex interfaces.\n• Experience with UI design, graphics, SVG, or Canvas.\n• Ability to validate application code and functionality.\n• Strong written English and technical communication.\n• Experience with AI evaluation or data labeling is advantageous.\n📩 Ready to put your frontend expertise to work? Apply today!\nApplication link: [https://lnkd.in/ezHuBRnB]\n#Hiring #FrontendEngineer #UIEngineer #ReactJS #TypeScript #JavaScript #GitHub #FrontendDevelopment #RemoteJobs #ContractJobs",
+    "matchScore": 36,
+    "eligibility": "ELIGIBLE",
+    "matchedSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Git",
+      "GitHub"
+    ],
+    "missingSkills": [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "UNCLEAR",
+        "reasoning": "No clear seniority signal found in title or description"
+      },
+      "eligibility": {
+        "eligibility": "ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": false
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-56ulfh",
+        "matchScore": 36,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Git",
+          "GitHub"
+        ],
+        "missingSkills": [
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T14:52:53.386Z"
+  },
+  {
+    "jobId": "li-auto-hlriu7",
+    "externalId": "li-auto-hlriu7",
+    "title": "𝟯 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗮𝗻𝗱 𝗲𝗻𝘁𝗿𝘆-𝗹𝗲𝘃𝗲𝗹 𝘁𝗲𝗰𝗵 𝗼𝗽𝗲𝗻𝗶𝗻𝗴𝘀 𝗳𝗼𝗿 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗳𝗿𝗲𝘀𝗵𝗲𝗿𝘀",
+    "company": "Anu Yadav",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experienceLevel": "INTERNSHIP",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "ba79339ab2f78c33f1b5aefaa5cfda46f085ee08",
+    "description": "𝟯 𝗶𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗮𝗻𝗱 𝗲𝗻𝘁𝗿𝘆-𝗹𝗲𝘃𝗲𝗹 𝘁𝗲𝗰𝗵 𝗼𝗽𝗲𝗻𝗶𝗻𝗴𝘀 𝗳𝗼𝗿 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗳𝗿𝗲𝘀𝗵𝗲𝗿𝘀\n\nHere are 3 publicly listed openings I found today. Read the full details on each official page before applying.\n\n𝟭. 𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗮𝘁 𝗪𝗲𝗹𝗹𝘀 𝗙𝗮𝗿𝗴𝗼\n𝗥𝗼𝗹𝗲: Technology Program Intern (Summer Internship 2027)\n𝗕𝗮𝘁𝗰𝗵: 2028 graduates\n𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Bengaluru / Hyderabad, India\nApply: https://lnkd.in/guyzGrGC\n\n𝟮. 𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗮𝘁 𝗠𝗶𝗰𝗿𝗼𝟭\n𝗥𝗼𝗹𝗲: Frontend Engineer\n𝗘𝗹𝗶𝗴𝗶𝗯𝗹𝗲: College students and working professionals\n𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Remote\nApply (referral link): https://lnkd.in/ggakDZpn\nPlease check the pay and terms on the official page, as the listing mentions a high hourly rate.\n\n𝟯. 𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗮𝘁 𝗜𝗧𝗠𝗧𝗕 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀\n𝗥𝗼𝗹𝗲: Software Engineering Intern (AI)\n𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: 0 to 1 year\n𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Remote (Pune) | Paid internship\nApply: https://lnkd.in/gWRgJN6k\n\n𝗧𝗶𝗽 𝗯𝗲𝗳𝗼𝗿𝗲 𝘆𝗼𝘂 𝗮𝗽𝗽𝗹𝘆:\nMatch your resume to the job description and apply only where you meet the basics.\n\nDisclaimer: I am not affiliated with any of these companies. This post only shares publicly listed openings.\n\n#Internships #Freshers #TechJobs #SoftwareEngineering #Hiring2027",
+    "matchScore": 0,
+    "eligibility": "LIKELY_ELIGIBLE",
+    "matchedSkills": [],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "INTERNSHIP",
+        "reasoning": "Internship keyword: \"intern\""
+      },
+      "eligibility": {
+        "eligibility": "LIKELY_ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Students accepted",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": true
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-hlriu7",
+        "matchScore": 0,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T19:46:40.726Z"
+  },
+  {
+    "jobId": "li-auto-q4mh5p",
+    "externalId": "li-auto-q4mh5p",
+    "title": "🇪🇬 Arabic Voice Actors (Egyptian Dialect) Wanted | Remote | $30–$65/hr",
+    "company": "Dennis Miregwa",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experienceLevel": "UNCLEAR",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/foryou/",
+    "applicationUrl": "https://www.linkedin.com/feed/foryou/",
+    "salary": null,
+    "remote": "REMOTE",
+    "contentHash": "826aed8c251693aec1130a2c7df802e37f21764c",
+    "description": "🇪🇬 Arabic Voice Actors (Egyptian Dialect) Wanted | Remote | $30–$65/hr\nAre you a talented Egyptian Arabic speaker with voice acting or recording experience? micro1 is hiring Arabic Voice Actors (Egyptian Dialect) to help train next-generation AI systems through authentic voice recordings and language data.\n💰 $30–$65/hr\n🌍 100% Remote\n📈 50 Openings\n🎙️ Contract Role\nWhat You'll Do\n✅ Record high-quality audio in authentic Egyptian Arabic\n✅ Perform scripts with natural tone, emotion, and dialect accuracy\n✅ Review and refine recordings for clarity and consistency\n✅ Provide feedback on language authenticity and phrasing\n✅ Collaborate remotely with project coordinators\n✅ Help improve advanced AI language systems\nRequirements\n✅ Native or near-native Egyptian Arabic fluency\n✅ Strong pronunciation and communication skills\n✅ Voice acting, broadcasting, dubbing, or audio production experience\n✅ Familiarity with recording equipment and audio editing tools\n✅ Quiet recording environment and reliable equipment\n✅ Ability to implement feedback and maintain quality standards\nIdeal Backgrounds\n🎙️ Voice Actors\n📻 Broadcasters & Radio Hosts\n🎬 Dubbing Artists\n🎧 Audio Producers & Editors\n🗣️ Language & Communication Professionals\nIf you can bring authentic Egyptian Arabic speech to life and want to contribute to the future of AI, this opportunity is for you.\n🔗 Apply Here:\nhttps://lnkd.in/dRhM47Zk\n#ArabicJobs #EgyptianArabic #VoiceActor #VoiceOver #Dubbing #AudioProduction #RemoteJobs #AIJobs #WorkFromHome #LanguageExpert #Hiring #micro1 #ArabicLanguage #EgyptJobs #VoiceRecording",
+    "matchScore": 0,
+    "eligibility": "ELIGIBLE",
+    "matchedSkills": [],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "UNCLEAR",
+        "reasoning": "No clear seniority signal found in title or description"
+      },
+      "eligibility": {
+        "eligibility": "ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": false
+        }
+      },
+      "matching": {
+        "jobId": "li-auto-q4mh5p",
+        "matchScore": 0,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T20:01:01.376Z"
+  },
+  {
+    "jobId": "urn:li:activity:7523709739260907520",
+    "externalId": "urn:li:activity:7523709739260907520",
+    "title": "📣 Students & Fresh Graduates — Stop Waiting for Experience. Start Building It! 🚀",
+    "company": "Marwan Wael",
+    "location": "Unspecified",
+    "jobType": "Internship",
+    "experienceLevel": "INTERNSHIP",
+    "postingDate": null,
+    "deadline": null,
+    "originalUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7523709739260907520",
+    "applicationUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7523709739260907520",
+    "salary": null,
+    "remote": "UNKNOWN",
+    "contentHash": "a5a65811b619f629348d891b6c033a96ffed118e",
+    "description": "📣 Students & Fresh Graduates — Stop Waiting for Experience. Start Building It! 🚀\nApplications for the UneeQ Interns – December 2026 Cohort are officially OPEN! 🌍\nAre you a student, fresh graduate, beginner, or career starter looking to gain practical experience before entering the job market?\nThis is your opportunity to move beyond theory, work on practical projects, build a professional portfolio, and take a step toward becoming career-ready.\n\n💼 Available Internship Tracks:\n✅ Mobile App Development\n✅ UI/UX Design\n✅ Machine Learning & AI\n✅ Web Development\n✅ Content Creation\n✅ Data Analysis\n✅ Cybersecurity\n✅ Cloud Computing\n✅ Business Analysis\n\n🎯 Why Join UneeQ Interns?\n✔ Work on practical, project-based assignments.\n✔ Build portfolio projects you can showcase to potential employers.\n✔ Strengthen your CV and LinkedIn profile.\n✔ Gain practical experience to support your career journey.\n✔ Learn remotely through a flexible, task-based structure.\n✔ Develop essential workplace skills, including time management, problem-solving, communication, and meeting deadlines.\n✔ Receive guidance and support throughout the program.\n✔ Earn an official certificate of completion after meeting the program requirements.\n\n📅 Important Dates:\n📥 Application Deadline: November 27, 2026\n🚀 Start Date: First Week of December\n📂 Project Submission Deadline: December 25, 2026\n🎓 Certificates Issued: First Week of January 2027\n💡 This is more than just another line on your CV.\n\nIt's an opportunity to apply what you know, complete practical tasks, document your work, build a portfolio, and demonstrate your skills to future employers.\n\n🌟 What Has UneeQ Interns Achieved?\nSo far, UneeQ Interns has helped:\n✅ 10,000+ students grow their skills.\n✅ Around 35 cohorts complete practical internship experiences.\n✅ 1,000+ learners earn certificates after completing their requirements.\n\n🚀 Interested in joining the December cohort?\n💬 Comment \"Interested + Your Preferred Track\" below, and we'll send you the application link directly!\n\nAt UneeQ Interns, we help learners move from theory to practice through flexible, task-based internships focused on practical projects, portfolio building, and career readiness.\n\n👇 Which track would you choose for December?\nTag a friend who shouldn't miss this opportunity, and share this post to help more students start building their future!\n\n#UneeQInterns #RemoteInternship #TechCareers #FreshGraduates #Students #CareerReady #InternshipOpportunities #PortfolioBuilding",
+    "matchScore": 20,
+    "eligibility": "LIKELY_ELIGIBLE",
+    "matchedSkills": [],
+    "missingSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+    "strengths": [
+      "Skills match detected"
+    ],
+    "concerns": [
+      "No LLM configured — score is deterministic fallback"
+    ],
+    "recommendation": "LOW_PRIORITY",
+    "explanation": "Deterministic fallback score based on skill keyword overlap.",
+    "verificationStatus": "UNVERIFIED",
+    "verifiedFields": [],
+    "failedFields": [],
+    "activeListing": true,
+    "stages": {
+      "classification": {
+        "experienceLevel": "INTERNSHIP",
+        "reasoning": "Internship keyword: \"intern\""
+      },
+      "eligibility": {
+        "eligibility": "LIKELY_ELIGIBLE",
+        "reasons": [
+          "Remote in a preferred location",
+          "Position is remote",
+          "Students accepted",
+          "Graduation year 2027 is current or future — compatible",
+          "No significant professional experience required"
+        ],
+        "checks": {
+          "countryEligible": true,
+          "remoteEligible": true,
+          "studentEligible": true,
+          "graduationYearCompatible": true,
+          "experienceCompatible": true,
+          "languageCompatible": true,
+          "deadlineValid": true,
+          "workAuthorization": true,
+          "enrollmentRequired": true
+        }
+      },
+      "matching": {
+        "jobId": "urn:li:activity:7523709739260907520",
+        "matchScore": 20,
+        "experienceLevel": "entry_level",
+        "eligibility": "LIKELY_ELIGIBLE",
+        "matchedSkills": [],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "PHP",
+          "Laravel",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "REST APIs",
+          "Git",
+          "GitHub"
+        ],
+        "strengths": [
+          "Skills match detected"
+        ],
+        "concerns": [
+          "No LLM configured — score is deterministic fallback"
+        ],
+        "recommendation": "LOW_PRIORITY",
+        "explanation": "Deterministic fallback score based on skill keyword overlap."
+      }
+    },
+    "source": "linkedin-manual",
+    "savedAt": "2026-11-07T20:01:10.455Z"
+  }
+]

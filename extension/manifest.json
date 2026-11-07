@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "AI Job Hunter — LinkedIn Capture",
+  "version": "1.2.0",
+  "description": "Auto-scans LinkedIn feed for internships/junior roles (EN+AR), sends to local AI Job Hunter server. Optional auto-scroll and auto-like.",
+  "permissions": ["storage", "scripting"],
+  "host_permissions": [
+    "https://www.linkedin.com/*",
+    "http://localhost:3737/*",
+    "http://127.0.0.1:3737/*"
+  ],
+  "background": { "scripts": ["background.js"] },
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "AI Job Hunter"
+  }
+}
